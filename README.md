@@ -1,8 +1,5 @@
 # ATIVIDADE2_LOPAL
 
-Perfeito, fofis! Com base na imagem do seu diretório e no conteúdo dos algoritmos, aqui está o **README.md** pronto para o seu GitHub, bem limpo e organizado:
-
----
 
 # Exercícios de Lógica de Programação (LOPAL)
 
